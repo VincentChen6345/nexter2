@@ -1,0 +1,6 @@
+.header{
+    background-color: $color-grey-dark-1;
+    grid-column: full-start/col-start 7;
+    // when we have repeated grid line names, we have to number it col-start 7
+    grid-row: 1/2;
+}
